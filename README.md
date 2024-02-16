@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Introduction
 
 **jnavarreteu/jnavarreteu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🗺️🗺️🗺️🗺️🗺️🗺️🗺️
+
+## Projects
+- [geemap](https://geemap.org/): A Python package for interactive mapping with Google Earth Engine, ipyleaflet and ipywidgets.
+- [leafmap](https://leafmap.org/): A Python package for interactive mapping with folium, ipyleaflet and ipywidgets.   
+
+
+## Demos
+![](https://th.bing.com/th/id/OIG4.g.IPqcWkdc3438TmO6Tl?pid=ImgGn)
+
+![](https://th.bing.com/th/id/OIG4.VqBFhMXoR_vqWFzMDLv6?pid=ImgGn)
