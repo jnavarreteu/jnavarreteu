@@ -2,19 +2,18 @@
 
 ## Introduction
 
-**jnavarreteu/jnavarreteu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hello everyone and welcome to me profile, My name is Julián Navarrete, I am Geographer and I am interested in learning and developing knowledge about rural development, risk and hazards management; a little bit of meteorology and languages skills acquisition. 
 
-Here are some ideas to get you started:
+ I like to conduct researches in which is needed to do field-trips, I like to walk a lot and interact with local communities. Every project is an adventure for me.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🗺️🗺️🗺️🗺️🗺️🗺️🗺️
+
+- 🔭 I’m currently working on improving my professional knowledge and technical skills. 
+- 🌱 I’m currently learning programming, a little bit of Chinese and French  
+- 👯 I’m looking to collaborate on fields of knowledge related to my interests. 
+- 💬 Ask me about whatever you consider I could help you.
+- 📫 How to reach me: you can write me an email to jnavarreteu@unal.edu.co 
+
+- 🗺️
 
 ## Projects
 - [geemap](https://geemap.org/): A Python package for interactive mapping with Google Earth Engine, ipyleaflet and ipywidgets.
